@@ -1,0 +1,45 @@
+.box{
+    border: 1px solid #dee0e4;
+    width: 300px;
+    margin: 50px auto;
+    border-radius: 12px;
+}
+.dn{
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.lock{
+    width: 10px;
+    margin-left: 15px;
+    margin-right: 8px;
+    margin-top: 5px;
+}
+.sub{
+    margin-top: 1px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: #606468;
+    font-size: 8px;
+}
+.title{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c1{
+    margin-left: 15px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    border: 1px solid #dee0e4;
+    background-color: white;
+    margin: 20px 15px;
+    padding: 9px 20px;
+    border-radius: 6px;
+    color: #1f75e8;
+}
