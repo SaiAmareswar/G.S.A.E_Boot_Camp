@@ -1,0 +1,25 @@
+.box{
+    background-color: #1de592;
+    width: 400px;
+    padding: 145px 70px;
+    border-radius: 12px;
+    margin: 100px;
+}
+
+h1{
+    font-size: 40px;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    font-size: medium;
+}
+button{
+    border: none;
+    padding: 15px 42px;
+    border-radius: 30px;
+    margin-top: 10px;
+    font-size: large;
+    background-color: white;
+}
